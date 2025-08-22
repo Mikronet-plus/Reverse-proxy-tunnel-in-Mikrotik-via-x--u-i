@@ -1,4 +1,4 @@
-# Reverse-proxy-tunnel-in-Mikrotik-via-x--u-i
+# Reverse-proxy-tunnel-in-Mikrotik-via-x-ui
 **How to create a reverse tunnel in Mikrotik using the X-Ray platform?  It is very smart that we can create a reverse tunnel in Mikrotik using this platform**  
 **According to the following commands, activate the Docker container in Mikrotik, then enter other commands to create interfaces and install the panel in your Mikrotik terminal**  
 
