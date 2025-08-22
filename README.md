@@ -3,7 +3,9 @@
 **According to the following commands, activate the Docker container in Mikrotik, then enter other commands to create interfaces and install the panel in your Mikrotik terminal**  
 
 **After completing these steps, you can see the rest of the work in the video below on our YouTube channel**  
-https://www.youtube.com/watch?v=iRSnJI5AI4w  
+## 📺 Video Tutorial
+🎥 Watch the full installation and usage guide on YouTube:  
+👉 [Click here to watch the video](https://www.youtube.com/watch?v=iRSnJI5AI4w)
 
 **Enter the following commands in order in the terminal**
 
